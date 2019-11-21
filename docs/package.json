@@ -6,7 +6,6 @@
   "dependencies": {
     "vuepress-theme-cosmos": "^1.0.70"
   },
-  "devDependencies": {},
   "scripts": {
     "preserve": "./pre.sh",
     "serve": "trap 'exit 0' SIGINT; vuepress dev",
